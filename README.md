@@ -34,7 +34,7 @@ Công cụ chạy trực tiếp trên trình duyệt giúp vẽ bản đồ khu 
 **No installation required.** Just download and open the HTML file in a modern browser (Chrome, Edge, Firefox). An internet connection is needed only to load the basemap tiles.
 
 1. Tải file `index.html` về máy và mở bằng trình duyệt
-2. Nhập mật khẩu 
+2. Nhập mật khẩu: "camonquang"
 3. Kéo thả (hoặc chọn) file dữ liệu vào **mục 1** ở thanh bên trái
 4. Kiểm tra cột tọa độ ở **mục 2** — app thường tự nhận diện đúng
 5. Tùy chỉnh hiển thị ở **mục 3**: màu, ký hiệu, tên điểm, khung tọa độ
